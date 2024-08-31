@@ -1,6 +1,6 @@
 ## Customer-Churn-Modelling-using-ANN
 
-In this project about customer churn modelling using Artificial Neural Networks, we are trying to predict whether the customer stays in the bank or leave the bank.
+In this project about customer churn modelling using Artificial Neural Networks, we are trying to predict whether the customer stays in the bank or leave the bank using a very popular deep learning library **Tensorflow**.
 
 ### Independent Features considered for the prediction :
 - CreditScore
